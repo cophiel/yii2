@@ -1,0 +1,40 @@
+2017-01-31 16:31:47 [127.0.0.1][-][-][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Maximum execution time of 30 seconds exceeded' in E:\Program Files\phpStudy\WWW\advanced\vendor\yiisoft\yii2\helpers\BaseFileHelper.php:287
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-01-31 16:31:18 [127.0.0.1][-][-][info][application] $_SERVER = [
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en,zh-CN;q=0.8,zh;q=0.6'
+    'PATH' => 'C:\\Documents and Settings\\All Users\\Application Data\\Oracle\\Java\\javapath;C:\\windows\\system32;C:\\windows;C:\\windows\\System32\\Wbem'
+    'SystemRoot' => 'C:\\windows'
+    'COMSPEC' => 'C:\\windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH'
+    'WINDIR' => 'C:\\windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.23 (Win32) OpenSSL/1.0.2j PHP/5.4.45'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'E:/Program Files/phpStudy/WWW'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'E:/Program Files/phpStudy/WWW'
+    'SERVER_ADMIN' => 'admin@phpStudy.net'
+    'SCRIPT_FILENAME' => 'E:/Program Files/phpStudy/WWW/advanced/frontend/web/index.php'
+    'REMOTE_PORT' => '1129'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/frontend/web/'
+    'SCRIPT_NAME' => '/advanced/frontend/web/index.php'
+    'PHP_SELF' => '/advanced/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1485880276.875
+    'REQUEST_TIME' => 1485880276
+]
